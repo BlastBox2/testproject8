@@ -9,6 +9,13 @@ import org.junit.Test;
  */
 public class AppTest 
 {
+
+    @Test
+    public void intget() {
+       
+    }
+
+
     /**
      * Rigorous Test :-)
      */
