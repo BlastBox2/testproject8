@@ -12,7 +12,7 @@ public class AppTest
 
     @Test
     public void intget() {
-
+        int s = 3;
     }
 
     @Test
