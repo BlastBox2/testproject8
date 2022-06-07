@@ -12,9 +12,13 @@ public class AppTest
 
     @Test
     public void intget() {
-       
+
     }
 
+    @Test
+    public void Stringget() {
+
+    }
 
     /**
      * Rigorous Test :-)
