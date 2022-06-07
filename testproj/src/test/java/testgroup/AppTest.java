@@ -9,6 +9,10 @@ import org.junit.Test;
  */
 public class AppTest 
 {
+    @Test
+    public void intget2() {
+        int s = 3;
+    }
 
     @Test
     public void intget() {
