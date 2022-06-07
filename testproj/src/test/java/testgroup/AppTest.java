@@ -10,7 +10,7 @@ import org.junit.Test;
 public class AppTest 
 {
     @Test
-    public void intget2() {
+    public void intget23() {
         int s = 3;
     }
 
