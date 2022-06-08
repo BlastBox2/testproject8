@@ -22,6 +22,7 @@ public class AppTest {
     @Test
     public void Stringget() {
         int x = 3;
+        int yy = 33;
     }
 
     /**
