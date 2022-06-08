@@ -7,8 +7,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
-{
+public class AppTest {
     @Test
     public void intget23() {
         int s = 3;
@@ -22,15 +21,14 @@ public class AppTest
 
     @Test
     public void Stringget() {
-
+        int x = 3;
     }
 
     /**
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+    public void shouldAnswerWithTrue() {
+        assertTrue(true);
     }
 }
